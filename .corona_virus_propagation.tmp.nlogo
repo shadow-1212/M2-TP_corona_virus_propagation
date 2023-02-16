@@ -150,10 +150,10 @@ NIL
 HORIZONTAL
 
 SLIDER
-33
-139
-205
-172
+274
+235
+458
+268
 transmission-rate
 transmission-rate
 0
@@ -165,10 +165,10 @@ NIL
 HORIZONTAL
 
 INPUTBOX
-224
-139
-385
-199
+250
+311
+411
+371
 recovery-time
 0.0
 1
@@ -176,10 +176,10 @@ recovery-time
 Number
 
 SLIDER
-223
-97
-395
-130
+218
+226
+390
+259
 initial-infected
 initial-infected
 0
